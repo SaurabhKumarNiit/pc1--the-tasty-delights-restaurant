@@ -1,1 +1,67 @@
 /* Write CSS code here */
+/* Write CSS code here */
+header{
+    background-color: blue;
+    margin-top: -15px;
+    height: 50px;
+    display: flex;
+}
+
+ul a{
+   
+    color: rgb(233, 233, 174);
+    text-decoration: none;
+   padding: 10px;
+    
+
+}
+
+.flag{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+#image1{
+
+    margin-left:  10px;
+    border-radius: 15px;
+   
+  
+}
+h2 {
+    color: rgba(37, 13, 2, 0.708);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+body{
+    background-color: rgba(255, 228, 196, 0.192);
+}
+p{
+    color: rgb(23, 20, 19);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#image2{
+    margin-left:  10px;
+    border-radius: 15px;
+}
+#foot1{
+    text-decoration: none;
+    margin: 10px;
+   
+}
+#copyright{
+
+    text-align: center;
+}
+#photoName{
+    margin-left: 135px;
+    margin-bottom: 50px;
+   
+   
+}
+#bottompart{
+   list-style-type: none;
+    width: 20px;
+   display: inline-flex;
+   padding: 0; 
+}
+
