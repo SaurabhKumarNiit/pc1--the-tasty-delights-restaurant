@@ -1,1 +1,25 @@
 /* Write CSS code here */
+div{
+    width: 90%;
+   border: 1px solid black;
+    text-align: center;
+    padding: 30px;
+}
+div img{
+    margin-right: 15px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+p{
+    color: greenyellow;
+}
+span{
+    font-family: Fraunves;
+}
